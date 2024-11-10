@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\bin\Debug\PracticaRecursiva.exe.config
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\bin\Debug\PracticaRecursiva.exe
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\bin\Debug\PracticaRecursiva.pdb
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\obj\Debug\PracticaRecursiva.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\obj\Debug\PracticaRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\obj\Debug\PracticaRecursiva.exe
+C:\Users\admin\Desktop\PracticaRecursiva\PracticaRecursiva\obj\Debug\PracticaRecursiva.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\admin\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\admin\Desktop\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\admin\Desktop\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\admin\Desktop\Parcial\Parcial\obj\Debug\Parcial.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\bin\Debug\Parcial.exe.config
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\bin\Debug\Parcial.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\bin\Debug\Parcial.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\obj\Debug\Parcial.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Parcial\Parcial\obj\Debug\Parcial.pdb

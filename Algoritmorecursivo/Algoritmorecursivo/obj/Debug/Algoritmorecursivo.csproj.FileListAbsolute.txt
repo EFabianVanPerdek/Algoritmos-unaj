@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\bin\Debug\Algoritmorecursivo.exe.config
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\bin\Debug\Algoritmorecursivo.exe
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\bin\Debug\Algoritmorecursivo.pdb
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\obj\Debug\Algoritmorecursivo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\obj\Debug\Algoritmorecursivo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\obj\Debug\Algoritmorecursivo.exe
+C:\Users\admin\Desktop\Algoritmorecursivo\Algoritmorecursivo\obj\Debug\Algoritmorecursivo.pdb
