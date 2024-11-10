@@ -1,0 +1,7 @@
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\bin\Debug\sistema.exe.config
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\bin\Debug\sistema.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\bin\Debug\sistema.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\obj\Debug\sistema.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\obj\Debug\sistema.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\obj\Debug\sistema.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Sistema gestion de productos\sistema\sistema\obj\Debug\sistema.pdb

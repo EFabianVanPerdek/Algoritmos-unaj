@@ -1,0 +1,7 @@
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\bin\Debug\Practica1.exe.config
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\bin\Debug\Practica1.exe
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\bin\Debug\Practica1.pdb
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\obj\Debug\Practica1.exe
+\\fabian\users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1\Practica1\obj\Debug\Practica1.pdb

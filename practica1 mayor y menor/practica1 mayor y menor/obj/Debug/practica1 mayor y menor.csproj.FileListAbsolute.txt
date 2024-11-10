@@ -1,0 +1,21 @@
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe.config
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.pdb
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.exe
+C:\Users\admin\source\repos\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.CoreCompileInputs.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe.config
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe.config
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\bin\Debug\practica1 mayor y menor.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\practica1 mayor y menor\practica1 mayor y menor\obj\Debug\practica1 mayor y menor.pdb

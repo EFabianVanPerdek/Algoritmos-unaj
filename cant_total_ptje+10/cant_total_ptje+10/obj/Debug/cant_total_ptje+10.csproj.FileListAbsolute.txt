@@ -1,0 +1,7 @@
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\bin\Debug\cant_total_ptje+10.exe.config
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\bin\Debug\cant_total_ptje+10.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\bin\Debug\cant_total_ptje+10.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\obj\Debug\cant_total_ptje+10.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\obj\Debug\cant_total_ptje+10.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\obj\Debug\cant_total_ptje+10.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\cant_total_ptje+10\cant_total_ptje+10\obj\Debug\cant_total_ptje+10.pdb

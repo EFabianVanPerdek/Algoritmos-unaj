@@ -1,0 +1,7 @@
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\bin\Debug\Practica1 bucle for.exe.config
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\bin\Debug\Practica1 bucle for.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\bin\Debug\Practica1 bucle for.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\obj\Debug\Practica1 bucle for.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\obj\Debug\Practica1 bucle for.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\obj\Debug\Practica1 bucle for.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Practica1 bucle for\Practica1 bucle for\obj\Debug\Practica1 bucle for.pdb
