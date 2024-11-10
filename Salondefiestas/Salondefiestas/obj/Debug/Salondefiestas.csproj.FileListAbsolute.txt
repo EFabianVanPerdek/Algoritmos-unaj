@@ -1,0 +1,7 @@
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\bin\Debug\Salondefiestas.exe.config
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\bin\Debug\Salondefiestas.exe
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\bin\Debug\Salondefiestas.pdb
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\obj\Debug\Salondefiestas.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\obj\Debug\Salondefiestas.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\obj\Debug\Salondefiestas.exe
+C:\Users\FABIAN1401\Desktop\Salondefiestas\Salondefiestas\obj\Debug\Salondefiestas.pdb
