@@ -1,0 +1,2 @@
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Trabajo practico pasado\Nueva carpeta\obj\Debug\TpFinal.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Trabajo practico pasado\Nueva carpeta\obj\Debug\TpFinal.csproj.CoreCompileInputs.cache

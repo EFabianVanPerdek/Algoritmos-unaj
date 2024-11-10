@@ -1,0 +1,7 @@
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\obj\Debug\Gestion Eventos Deportivos.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\obj\Debug\Gestion Eventos Deportivos.csproj.CoreCompileInputs.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\bin\Debug\Gestion Eventos Deportivos.exe.config
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\bin\Debug\Gestion Eventos Deportivos.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\bin\Debug\Gestion Eventos Deportivos.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\obj\Debug\Gestion Eventos Deportivos.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Gestion Eventos Deportivos\Gestion Eventos Deportivos\obj\Debug\Gestion Eventos Deportivos.pdb

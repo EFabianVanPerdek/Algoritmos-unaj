@@ -1,0 +1,7 @@
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\bin\Debug\Espectaculos.exe.config
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\bin\Debug\Espectaculos.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\bin\Debug\Espectaculos.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\obj\Debug\Espectaculos.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\obj\Debug\Espectaculos.csproj.CoreCompileInputs.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\obj\Debug\Espectaculos.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\UNIVERSIDAD\Algoritmos y programacion\Ejercicios Practicos_2024\Espectaculos\Espectaculos\obj\Debug\Espectaculos.pdb

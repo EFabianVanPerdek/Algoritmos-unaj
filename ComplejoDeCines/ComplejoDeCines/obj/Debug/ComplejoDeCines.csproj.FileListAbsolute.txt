@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\bin\Debug\ComplejoDeCines.exe.config
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\bin\Debug\ComplejoDeCines.exe
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\bin\Debug\ComplejoDeCines.pdb
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\obj\Debug\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\obj\Debug\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\obj\Debug\ComplejoDeCines.exe
+C:\Users\admin\Desktop\ComplejoDeCines\ComplejoDeCines\obj\Debug\ComplejoDeCines.pdb
